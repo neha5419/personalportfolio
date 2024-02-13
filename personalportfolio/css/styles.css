@@ -1,0 +1,39 @@
+body
+{
+  margin:0px;
+}
+.firstbox
+{
+  background-color: pink;
+  height: 100px;
+  width:100px;
+  position:relative;
+  top:100px;
+  left:90px;
+}
+p
+{
+  margin:0px;
+  position: relative;
+  left:30px;
+  top:40px;
+}
+.secondbox
+{
+  background-color:yellow;
+  height:100px;
+  width:100px;
+  position:relative;
+  top:100px;
+  left:190px;
+
+}
+.thirdbox
+{
+  background-color:orange;
+  height:100px;
+  width:100px;
+  position:relative;
+  bottom:200px;
+  right:10px;
+}
